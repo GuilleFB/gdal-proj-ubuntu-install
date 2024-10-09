@@ -147,4 +147,4 @@ Estos son algunos errores comunes y sus soluciones, lo que debería ayudarte a i
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia MIT. Para más detalles, consulta el archivo LICENSE.
+Este proyecto se distribuye bajo la licencia MIT. Para más detalles, consulta el archivo [LICENSE](./LICENSE).
